@@ -15,7 +15,7 @@ I'm a French software engineer from [UTC (Sorbonne Universités)](https://www.ut
 
 ## 🔭 What I'm building now
 
-- 🧠 **[Head of Science](https://github.com/HeadOfScience)** — My tutoring company, powered by custom software that automates everything from student acquisition to invoicing. 70+ students, 100% bac success rate over 4 years.
+- 🧠 **[Head of Science](https://HeadOfScience.fr)** — My tutoring company, powered by custom software that automates everything from student acquisition to invoicing. 70+ students, 100% bac success rate over 4 years.
 - 💈 **Breem** — A beauty services booking platform, built with Flutter & a custom backend.
 - 🤖 Exploring AI-powered automation — LLM integration, MCP servers, intelligent workflows.
 
